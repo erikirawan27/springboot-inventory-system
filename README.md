@@ -13,3 +13,10 @@ Features
   - Automatically updates inventory.
 - Validation & Exception Handling
 - Unit test
+
+Tech Stack
+- Backend: Java 17, Spring Boot, Spring Data JPA
+- Database: H2 (in-memory, for quick testing)
+- Testing: JUnit, Mockito
+- Build Tool: Maven
+- Version Control: Git, GitHub
